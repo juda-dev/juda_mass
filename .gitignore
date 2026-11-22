@@ -1,0 +1,33 @@
+# Built application files and binaries
+*.apk
+*.aab
+*.aar
+*.ap_
+*.dex
+*.class
+
+# Gradle build directories and caches
+.gradle/
+build/
+*/build/
+app/build/
+
+# Local configuration (machine-specific Android SDK path)
+local.properties
+
+# IDE & Editor files
+.idea/
+*.iml
+.navigation/
+captures/
+.kotlin/
+
+# OS-specific and temporary files
+.directory
+.DS_Store
+Thumbs.db
+*.log
+*~
+
+# Native build cache
+.cxx/
