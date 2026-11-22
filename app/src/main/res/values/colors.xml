@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Enterprise & Industrial AR Palette -->
+    <color name="biomass_bg_dark">#090B0E</color>
+    <color name="biomass_surface_dark">#13171F</color>
+    <color name="biomass_surface_variant">#1A202C</color>
+    <color name="biomass_surface_elevated">#222938</color>
+    
+    <!-- Neon Accents -->
+    <color name="biomass_cyan_primary">#00F0FF</color>
+    <color name="biomass_cyan_dim">#0098A6</color>
+    <color name="biomass_emerald_secondary">#00E676</color>
+    <color name="biomass_amber_warning">#FFB703</color>
+    <color name="biomass_crimson_error">#FF3366</color>
+    
+    <!-- Typography & Overlays -->
+    <color name="biomass_text_primary">#F0F6FC</color>
+    <color name="biomass_text_secondary">#8B949E</color>
+    <color name="biomass_text_tertiary">#484F58</color>
+    <color name="biomass_overlay_grid">#1A00F0FF</color>
+    <color name="biomass_overlay_mesh">#4D00F0FF</color>
+</resources>

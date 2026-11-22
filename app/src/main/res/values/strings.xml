@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">JuDa Mass</string>
+    <string name="app_subtitle">Estimador Biomecánico con Integrales Triples</string>
+    <string name="scan_title">Escaneo Biomecánico AR</string>
+    <string name="scan_instruction_stand">Párese en posición anatómica completa frente a la cámara</string>
+    <string name="scan_instruction_calibrating">Calibrando mapeo de profundidad y nube de puntos...</string>
+    <string name="scan_instruction_tracking">Calculando integrales triples en tiempo real (30-60 FPS)...</string>
+    <string name="scan_instruction_fallback">Modo Respaldo Activo: Estimación antropométrica de profundidad</string>
+
+    <string name="somatotype_title">Somatotipo Morfológico</string>
+    <string name="somatotype_ectomorph">Ectomorfo</string>
+    <string name="somatotype_mesomorph">Mesomorfo</string>
+    <string name="somatotype_endomorph">Endomorfo</string>
+
+    <string name="somatotype_desc_ectomorph">Estructura ósea delgada, bajo porcentaje graso (δ ≈ 1035 kg/m³)</string>
+    <string name="somatotype_desc_mesomorph">Estructura ósea media-pesada, alta densidad muscular (δ ≈ 1070 kg/m³)</string>
+    <string name="somatotype_desc_endomorph">Mayor proporción de tejido adiposo periférico (δ ≈ 1015 kg/m³)</string>
+
+    <string name="telemetry_mass">Masa Estimada</string>
+    <string name="telemetry_weight">Peso Terrestre</string>
+    <string name="telemetry_volume">Volumen Corporal</string>
+    <string name="telemetry_density">Densidad Media (δ̄)</string>
+    <string name="telemetry_height">Estatura Detectada</string>
+    <string name="telemetry_bmi">IMC Estimado</string>
+    <string name="telemetry_confidence">Confianza Sensor</string>
+    <string name="telemetry_fps">Tasa de Muestreo</string>
+
+    <string name="status_ready">SISTEMA LISTO</string>
+    <string name="status_scanning">INTEGRANDO VOLUMEN...</string>
+    <string name="status_degraded">SENSORES LIMITADOS</string>
+    <string name="status_calibrating">SINCRONIZANDO AR...</string>
+
+    <string name="permission_camera_title">Permiso de Cámara Requerido</string>
+    <string name="permission_camera_desc">JuDa Mass necesita acceso a la cámara y al sensor de profundidad para realizar el análisis tridimensional y evaluar las integrales triples.</string>
+    <string name="permission_grant">Conceder Permiso</string>
+</resources>
